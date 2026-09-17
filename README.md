@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sachinpalni/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sachinpalni/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Sachinpalni/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sachinpalni/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/Sachinpalni/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3680-generate-schedule](https://github.com/Sachinpalni/LeetCode/tree/master/3680-generate-schedule) |
@@ -47,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sachinpalni/LeetCode/tree/master/0011-container-with-most-water) |
 | [3680-generate-schedule](https://github.com/Sachinpalni/LeetCode/tree/master/3680-generate-schedule) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Sachinpalni/LeetCode/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sachinpalni/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
