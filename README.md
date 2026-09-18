@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Sachinpalni/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Sachinpalni/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Sachinpalni/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Sachinpalni/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Sachinpalni/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sachinpalni/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Trie
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sachinpalni/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachinpalni/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Sachinpalni/LeetCode/tree/master/0012-integer-to-roman) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sachinpalni/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sachinpalni/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Binary Search
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sachinpalni/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sachinpalni/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sachinpalni/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Sachinpalni/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Sachinpalni/LeetCode/tree/master/0070-climbing-stairs) |
 | [3680-generate-schedule](https://github.com/Sachinpalni/LeetCode/tree/master/3680-generate-schedule) |
 ## Dynamic Programming
