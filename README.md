@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sachinpalni/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Sachinpalni/LeetCode/tree/master/0070-climbing-stairs) |
 | [3680-generate-schedule](https://github.com/Sachinpalni/LeetCode/tree/master/3680-generate-schedule) |
 ## Dynamic Programming
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sachinpalni/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sachinpalni/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sachinpalni/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
