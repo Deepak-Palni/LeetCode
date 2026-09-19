@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sachinpalni/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sachinpalni/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Sachinpalni/LeetCode/tree/master/0070-climbing-stairs) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sachinpalni/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3680-generate-schedule](https://github.com/Sachinpalni/LeetCode/tree/master/3680-generate-schedule) |
 ## Dynamic Programming
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sachinpalni/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sachinpalni/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
